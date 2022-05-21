@@ -1,3 +1,3 @@
 # SimpleUnityPlatformer
 
-A super Basic Unity platformer with jump powerup
+A Super Basic Unity platformer with jump powerup
